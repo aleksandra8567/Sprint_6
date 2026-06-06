@@ -1,0 +1,1 @@
+{"uuid": "929ae8b6-34a9-442c-8eee-18c8a9cfdc59", "children": ["854d872f-2c19-45dd-a74c-ff61c795aa56"], "befores": [{"name": "Подготовка драйвера", "status": "passed", "start": 1780721294394, "stop": 1780721305603}], "afters": [{"name": "Подготовка драйвера::0", "status": "passed", "start": 1780721305808, "stop": 1780721308677}], "start": 1780721294394, "stop": 1780721308677}
